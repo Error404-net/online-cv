@@ -15,12 +15,12 @@ sidebar:
     # Sidebar links
     email: resume@error404.net
     #phone: 
-    #timezone: America/Chicago Timezone
+    timezone: America/Chicago Timezone
     #citizenship:
     #website: blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/jessedurkee/
     #xing: alandoe
-    github: error404.net
+    github: Error404-net
     #telegram: # add your nickname without '@' sign
     #gitlab:
     Call Sign: KD0FKE
@@ -75,7 +75,8 @@ experiences:
         company: Collett Systems LLC, West Bend
         details: |
           responsibilities:
-              - Managed backup solutions, ensuring data redundancy.
+              - Managed backup solutions, ensuring data redundancy. In progress of
+              implementing a new deployment of our backup software for clients.
               - Led M365 migration projects, optimizing productivity tools for clients.
               - Collaborated on network design and implementation, ensuring robust and secure
                 networking solutions.
@@ -111,7 +112,7 @@ certifications:
           #credentialurl: www.google.com
           credentialname: Protege GX Installer Level 1
           details: |
-            Certified to install and maintain ICT's Protege GX and WX door access controll systems.
+            Certified to install and maintain ICT's Protege GX and WX door access control systems.
 
 
 
@@ -132,13 +133,16 @@ skills:
         level: 25%
 
       - name: Active Directory, DNS, DHCP
-        level: 98%
+        level: 90%
+
+      - name: Entra ID, Office 365 Management
+        level: 88%
 
       - name: Sketch & Photoshop
         level: 60%
 
       - name: Network Design and Firewalls
-        level: 70%
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
