@@ -18,7 +18,7 @@ sidebar:
     timezone: America/Chicago Timezone
     #citizenship:
     #website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/jessedurkee/
+    linkedin: jessedurkee
     #xing: alandoe
     github: Error404-net
     #telegram: # add your nickname without '@' sign
@@ -77,10 +77,11 @@ experiences:
           responsibilities:
               - Managed backup solutions, ensuring data redundancy. In progress of
               implementing a new deployment of our backup software for clients.
-              - Led M365 migration projects, optimizing productivity tools for clients.
-              - Collaborated on network design and implementation, ensuring robust and secure
-                networking solutions.
-              - Spearheaded and implemented a secure ephemeral password relay system, enhancing client security.
+              Led M365 migration projects, optimizing productivity tools for clients.
+              Collaborated on network design and implementation, ensuring robust and secure
+              networking solutions.  Spearheaded and implemented a secure ephemeral password 
+              relay system, enhancing client security. Started a proper documentaiton initiatative,
+              and set the standards for client documentation.
       - role: Manager, Upholstery Technician
         time: 2001 - 2005  2009 - 2021
         company: Google, London
@@ -121,7 +122,7 @@ skills:
 
     toolset:
       - name: PowerShell
-        level: 85%
+        level: 87%
 
       - name: Bash
         level: 80%
@@ -136,10 +137,13 @@ skills:
         level: 90%
 
       - name: Entra ID, Office 365 Management
-        level: 88%
+        level: 87%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Visio & Photoshop & Powerpoint
+        level: 50%
+
+      - name: Firewalls and Endpoint Security
+        level: 85%
 
       - name: Network Design and Firewalls
         level: 85%
