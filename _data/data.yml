@@ -2,31 +2,42 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 sidebar:
-  name: Jesse Durkee, IT Solutions Architect
-  avatar: Insert Avatar Here - Professional Profile Picture
-  contact_information:
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+#profile Information
+    name: Jesse Durkee
+    tagline: IT Solutions Architect
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  #sidebar Links
+  
     email: resume@error404.net
    # phone: 
-   # 
   social_media:
-    LinkedIn: https://www.linkedin.com/in/jessedurkee/
+      LinkedIn: https://www.linkedin.com/in/jessedurkee/
   #languages: []
-  interests:
+    interests:
+    title: Interests
+    info:
   - 'Cub Scouts: Den leader, organized pinewood derby with over 50 participants.'
   - 'Home Automation: Passionate about automating and enhancing home efficiency.'
   - '3D Printing: Engaged in creating and designing 3D printed objects.'
 career_profile:
-  summary: Dynamic IT professional with a proven track record in cybersecurity, poised
+  summary: |
+    Dynamic IT professional with a proven track record in cybersecurity, poised
     to deploy expertise in fortifying digital assets and orchestrating resilient security
     protocols. Adept in collaborating with stakeholders to drive technical advancements
     and achieve strategic business objectives. Expertise in project and team management
     with a strategic, detail-driven mindset, looking to apply extensive experience
     in IT and security towards new professional challenges.
 education:
-  Moraine Park Technical College:
+  summary: |
+    Moraine Park Technical College:
     program: Associate Degree in Cybersecurity
     status: In Progress, Expected Graduation at the end of the spring semester
 work_experience:
+  summary: |
 - company: Collett Systems LLC, West Bend
   duration: June 2021 - Current
   role: IT Solutions Architect
@@ -54,29 +65,35 @@ work_experience:
   - Participated in the Second Battle of Ramadi, a significant operation during the Iraq War aimed at eliminating insurgent control in the region. Engaged in Operation Murfreesboro, further contributing to stabilization efforts and support operations in the area.
 
 skills:
-- name: PowerShell
-  level: 80%
-- name: Bash
-  level: 80%
-- name: Docker
-  level: 80%
-- Name: Ansible
-  level: 10%
-- name: Technical Architecture
-  level: 80%
-- name: Network Design
-  level: 90%
-- name: Server Management
-  level: 100%
-- name: Virtualization Technologies
-  level: 100%
-- name: Active Directory, DNS, DHCP
-  level: 90%
-- name: Hardware Troubleshooting
-  level: 100%
-- name: Firewalls and Endpoint Security
-  level: 100%
+    title: Skills &amp; Proficiency
+    languages:
+      - name: PowerShell
+        level: 80%
+      - name: Bash
+        level: 80%
+    toolset:
+      - name: Docker
+        level: 80%
+      - Name: Ansible
+        level: 10%
+    servies:
+      - name: Technical Architecture
+        level: 80%
+      - name: Network Design
+        level: 90%
+      - name: Server Management
+        level: 100%
+      - name: Virtualization Technologies
+        level: 100%
+      - name: Active Directory, DNS, DHCP
+        level: 90%
+      - name: Hardware Troubleshooting
+        level: 100%
+      - name: Firewalls and Endpoint Security
+        level: 100%
 certifications:
+  title: Certifications
+  list:
 - '2023: Certified ICT Protege GX Installer (Level 1)'
 
 
