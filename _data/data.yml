@@ -12,7 +12,7 @@ sidebar:
 
     # Sidebar Links
     email: Jesse@error404.net
-    phone: 262.573.8408
+  
     social_media:
         LinkedIn: https://www.linkedin.com/in/jessedurkee/
 
@@ -28,6 +28,7 @@ sidebar:
             - item: 3D Printing - Engaged in creating and designing 3D printed objects.
 
 career_profile:
+    title: Career Profile
     summary: |
         Dynamic IT professional with a proven track record in cybersecurity, poised
         to deploy expertise in fortifying digital assets and orchestrating resilient security
@@ -72,17 +73,15 @@ work_experience:
 
 skills:
     title: Skills & Proficiency
-    languages:
+    toolset:
         - name: PowerShell
           level: 80%
         - name: Bash
           level: 80%
-    toolset:
         - name: Docker
           level: 80%
         - name: Ansible
           level: 10%
-    services:
         - name: Technical Architecture
           level: 80%
         - name: Network Design
