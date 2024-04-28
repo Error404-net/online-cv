@@ -75,11 +75,18 @@ experiences:
           responsibilities:
               - Managed backup solutions, ensuring data redundancy. In progress of
               implementing a new deployment of our backup software for clients.
+<<<<<<< HEAD
               Led M365 migration projects, optimizing productivity tools for clients.
               Collaborated on network design and implementation, ensuring robust and secure
               networking solutions.  Spearheaded and implemented a secure ephemeral password 
               relay system, enhancing client security. Started a proper documentaiton initiatative,
               and set the standards for client documentation.
+=======
+              - Led M365 migration projects, optimizing productivity tools for clients.
+              - Collaborated on network design and implementation, ensuring robust and secure
+                networking solutions.
+              - Spearheaded and implemented a secure ephemeral password relay system, enhancing client security.
+>>>>>>> 9e7da96 (update)
       - role: Manager, Upholstery Technician
         time: 2001 - 2005  2009 - 2021
         company: Dan Frank Upholstery, Oconomowoc
@@ -133,6 +140,12 @@ skills:
 
       - name: Active Directory, DNS, DHCP
         level: 90%
+<<<<<<< HEAD
+=======
+
+      - name: Entra ID, Office 365 Management
+        level: 88%
+>>>>>>> 9e7da96 (update)
 
       - name: Entra ID, Office 365 Management
         level: 87%
