@@ -24,6 +24,7 @@ sidebar:
     #telegram: # add your nickname without '@' sign
     #gitlab:
     CallSign: KD0FKE
+    CallSign: KD0FKE
     #bitbucket:
     #twitter: '@webjeda'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -64,6 +65,7 @@ education:
       - degree: Associate Degree in Cybersecurity
         university: Moraine Park Technical College
         time: 2022 - 2024
+        time: 2022 - 2024
 
 experiences:
     title: Experiences
@@ -95,6 +97,7 @@ experiences:
 >>>>>>> 7c81a52 (cleanup)
       - role: Manager, Upholstery Technician
         time: 2001 - 2005  2009 - 2021
+        company: Dan Frank Upholstery, Oconomowoc
         company: Dan Frank Upholstery, Oconomowoc
         details: |
           Skilled artisan and built one off custom automotive, marine, and aircraft interiors. Managed all operations
@@ -167,6 +170,7 @@ skills:
       - name: Visio & Photoshop & Powerpoint
         level: 50%
 
+      - name: Endpoint Security
       - name: Firewalls and Endpoint Security
 >>>>>>> 7c81a52 (cleanup)
         level: 85%
