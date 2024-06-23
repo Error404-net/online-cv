@@ -23,7 +23,7 @@ sidebar:
     github: Error404-net
     #telegram: # add your nickname without '@' sign
     #gitlab:
-    Call Sign: KD0FKE
+    CallSign: KD0FKE
     #bitbucket:
     #twitter: '@webjeda'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -63,9 +63,7 @@ education:
     info:
       - degree: Associate Degree in Cybersecurity
         university: Moraine Park Technical College
-        time: 2022 - Present
-        details: |
-          status: In Progress, Expected Graduation at the end of the spring semester
+        time: 2022 - 2024
 
 experiences:
     title: Experiences
@@ -84,7 +82,7 @@ experiences:
               and set the standards for client documentation.
       - role: Manager, Upholstery Technician
         time: 2001 - 2005  2009 - 2021
-        company: Google, London
+        company: Dan Frank Upholstery, Oconomowoc
         details: |
           Skilled artisan and built one off custom automotive, marine, and aircraft interiors. Managed all operations
           of the shop including sales, client consultations, vendor managment, invoicing, and inventory. Also supported
@@ -142,7 +140,7 @@ skills:
       - name: Visio & Photoshop & Powerpoint
         level: 50%
 
-      - name: Firewalls and Endpoint Security
+      - name: Endpoint Security
         level: 85%
 
       - name: Network Design and Firewalls
