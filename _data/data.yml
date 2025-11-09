@@ -24,7 +24,6 @@ sidebar:
     #telegram: # add your nickname without '@' sign
     #gitlab:
     CallSign: KD0FKE
-    CallSign: KD0FKE
     #bitbucket:
     #twitter: '@webjeda'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -53,18 +52,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Dynamic IT professional with a proven track record in cybersecurity, poised
-      to deploy expertise in fortifying digital assets and orchestrating resilient security
-      protocols. Adept in collaborating with stakeholders to drive technical advancements
-      and achieve strategic business objectives. Expertise in project and team management
-      with a strategic, detail-driven mindset, looking to apply extensive experience
-      in IT and security towards new professional challenges.
+      IT solutions architect blending Microsoft 365, Entra ID, and resilient network design for
+      small and mid-sized organizations. Leads tenant migrations, zero trust rollouts, and
+      cross-platform endpoint strategies that align security posture with business goals. Builds
+      automation-first operations through PowerShell and Datto RMM components, paired with
+      disciplined documentation frameworks. Pairs backup, disaster recovery, and incident response
+      readiness with AI-assisted tooling to accelerate service delivery without compromising safety.
 education:
     title: Education
     info:
       - degree: Associate Degree in Cybersecurity
         university: Moraine Park Technical College
-        time: 2022 - 2024
         time: 2022 - 2024
 
 experiences:
@@ -75,46 +73,67 @@ experiences:
         company: Collett Systems LLC, West Bend
         details: |
           responsibilities:
-              - Managed backup solutions, ensuring data redundancy. In progress of
-              implementing a new deployment of our backup software for clients.
-              Led M365 migration projects, optimizing productivity tools for clients.
-              Collaborated on network design and implementation, ensuring robust and secure
-              networking solutions.  Spearheaded and implemented a secure ephemeral password 
-              relay system, enhancing client security. Started a proper documentaiton initiatative,
-              and set the standards for client documentation.
+              - Led Microsoft 365 and Entra ID tenant optimizations for 15+ organizations, aligning
+                licensing, security baselines, and conditional access.
+              - Engineered Datto RMM automation components and PowerShell runbooks that reduced
+                recurring support tickets and accelerated onboarding workflows by 40%.
+              - Designed Datto BCDR policy standards and validation rituals that sustain 99.9%
+                backup reliability across managed clients.
+              - Implemented network and firewall architectures that
+                balance segmentation, VPN access, and high availability.
+              - Authored and enforced documentation frameworks that raised knowledge reuse and
+                collaboration across the support organization.
       - role: Manager, Upholstery Technician
         time: 2001 - 2005  2009 - 2021
         company: Dan Frank Upholstery, Oconomowoc
-        company: Dan Frank Upholstery, Oconomowoc
         details: |
-          Skilled artisan and built one off custom automotive, marine, and aircraft interiors. Managed all operations
-          of the shop including sales, client consultations, vendor managment, invoicing, and inventory. Also supported
-          and managed all technology systems for the company.
+          Operated a custom automotive, marine, and aviation upholstery shop, managing full project
+          lifecycles from design consultation through delivery. Led vendor relationships, quoting,
+          invoicing, and inventory control while maintaining the company's technology footprint.
+          Introduced process documentation and CRM tooling that improved throughput and customer
+          follow-up cadence.
       - role: Infantry Soldier, Assistant Unit Armorer
         time: 2005 - 2009
         company: U.S Army, Colorado Springs
         details: |
           As an Infantry Soldier, I actively contributed to key logistics and supply chain management, ensuring operational 
-          efficiency and resource availability. I served as an Assistant Unit Armorer, responsible for the meticulous 
+          efficiency and resource availability. I was appointed as an Assistant Unit Armorer, responsible for the meticulous 
           maintenance and accountability of weapons, supporting the safety and readiness of the unit. My participation in 
           rigorous training and operations fostered enhanced team cohesion and operational readiness. I also played a significant 
           role in the Second Battle of Ramadi and Operation Murfreesboro, contributing to critical stabilization efforts 
           and support operations, which were vital to the mission's success in the region.
-          pellentesque eu, pretium quis, sem.
 
 
 certifications:
       title: Certifications
       list:
-        - name: Protege GX Installer Level 1
-          start: 2021
-          end: 2023
-          organization: ICT
-          #credentialid: 111-222
-          #credentialurl: www.google.com
-          credentialname: Protege GX Installer Level 1
+        - name: Amateur Radio Technician License
+          organization: Federal Communications Commission (FCC)
+          credentialid: KD0FKE
+          start: 2008
           details: |
-            Certified to install and maintain ICT's Protege GX and WX door access control systems.
+            Callsign issued by the FCC; validates RF theory, telecommunications regulations,
+            and operational competency.
+
+        - name: Dropbox Certified Administrator
+          organization: Dropbox
+          start: 2025-05
+
+
+        - name: Certified 5G LAN Specialist (CWNP)
+          organization: Certified Wireless Network Professionals (CWNP)
+          start: 2025-04
+          end: TBD
+          details: |
+            Demonstrates advanced LAN design for 5G-ready wireless networks. 
+
+        - name: Certified ICT Protege GX Installer (Level 1)
+          organization: Integrated Control Technology (ICT)
+          start: 2023
+          end: TBD
+          details: |
+            Qualified to deploy and maintain ICT Protege GX/WX access control systems. Review vendor
+            requirements for renewal or upgrade paths before the end of 2025.
 
 
 
@@ -122,31 +141,58 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PowerShell
-        level: 87%
+      - name: Microsoft 365 & Entra ID Administration
+        level: 98%
 
-      - name: Bash
-        level: 80%
+      - name: Windows Server & Active Directory
+        level: 98%
 
-      - name: Docker
-        level: 70%
+      - name: Endpoint Management (Intune, MDM, ABM)
+        level: 95%
 
-      - name: Ansible
-        level: 25%
+      - name: Network Security & Firewall Management
+        level: 95%
 
-      - name: Active Directory, DNS, DHCP
+      - name: Backup & Disaster Recovery Solutions
+        level: 95%
+
+      - name: PowerShell Scripting & Automation
+        level: 95%
+
+      - name: RMM Platforms & Monitoring (Datto, Autotask)
+        level: 95%
+
+      - name: VPN & Remote Access Technologies
         level: 90%
 
-      - name: Entra ID, Office 365 Management
-        level: 87%
+      - name: DNS, DHCP & Network Services
+        level: 90%
 
-      - name: Visio & Photoshop & Powerpoint
-        level: 50%
+      - name: Email Security & Migration Tools
+        level: 90%
 
-      - name: Firewalls and Endpoint Security
+      - name: Virtualization (Hyper-V, Proxmox, ESXi)
+        level: 90%
+
+      - name: Cybersecurity & Threat Management
+        level: 88%
+
+      - name: Physical Security & Access Control Systems
+        level: 88%
+
+      - name: Documentation & Knowledge Management
+        level: 95%
+
+      - name: Bash & Linux Scripting
         level: 85%
 
-      - name: Network Design and Firewalls
+      - name: AI-Assisted IT Automation
+        level: 85%
+
+      - name: API Integration & Scripting
+        level: 80%
+
+      - name: Git & GitHub (Version Control & CI/CD)
         level: 85%
 
 footer: >

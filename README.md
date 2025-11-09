@@ -59,7 +59,7 @@ bundle install
 * Serve the site locally
 
 ```bash
-bundle exec jekyll serve
+a
 ```
 
 * Navigate to `http://localhost:4000`
