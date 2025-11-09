@@ -4,3 +4,10 @@ _site/
 .jekyll-metadata
 .jekyll-cache
 AGENTS.md
+
+# Bundler
+vendor/
+.bundle/
+
+# Gemfile.lock (optional - some projects commit this, some don't)
+# Gemfile.lock
